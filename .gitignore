@@ -1,2 +1,5 @@
 .claude/
 .DS_Store
+
+# source export lives in Downloads; index.html is the published copy
+Stone Center September Newsletter (standalone).html
